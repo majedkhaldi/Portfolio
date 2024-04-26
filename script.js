@@ -7,4 +7,4 @@ function showw() {
         majed.style.opacity = opacity;
     }
 }
-setInterval(showw, 100);
+setInterval(showw, 60);
